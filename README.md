@@ -10,6 +10,9 @@ Repositories ini berisi informasi sebagai berikut :
 - requirements.txt : Teks berisi libraries python yang harus diinstall sebelum menjalankan websitenya
 - setup.sh : File shell untuk menjalankan website
 - Web-Deployment.py : Program python yang berisi kode Streamlit yang akan ditampilkan di website
+- Asuransi_MRI_Total.ipynb : Notebook pengerjaan pemodelan premi MRI secara keseluruhan
+- Asuransi_MRI_Per_Kategori.ipynb : Notebook pengerjaan pemodelan premi MRI per Kategori Pelayanan 
+- K18NSPresentasi2 : File presentasi yang berisi tentang detail pemodelan premi MRI termasuk penjelasan KASUS 1.1, 1.2, 1.3
 
 Repositories ini digunakan untuk menjalankan website Streamlit di Heroku (link : https://penentuanpremik18.herokuapp.com/)
 
